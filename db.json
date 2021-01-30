@@ -1,0 +1,23 @@
+[
+    {
+        "image": "https://media.4rgos.it/s/Argos/8791809_R_SET?$Main768$&w=620&h=620",
+        "title": "Honor 10 Lite",
+        "description": "Buy SIM Free HONOR 10 Lite 64GB Mobile Phone - Midnight Black at Argos. Thousands of products for same day delivery £3.95, or fast store collection.",
+        "price": 350000,
+        "phone": "09755513064"
+    },
+    {
+        "image": "https://shop.ee.co.uk/content/dam/everything-everywhere/images/SHOP/affiliates/apple/iPhone_12_Blue_800x800.png",
+        "title": "I Phone 12",
+        "description": "Discover the new iPhone 12 and experience the highest quality video of any smartphone—ever. Stunning 6.1-inch display. Now in 5G. Buy now from EE.",
+        "price": 350000,
+        "phone": "09755513064"
+    },
+    {
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81SdJG3OUjL._SL1500_.jpg",
+        "title": "HP Laptop",
+        "description": "HP 10th Gen Intel Core i3 15.6-inch Laptop (i3-1005G1/4GB/512GB)",
+        "price": 800000,
+        "phone": "09123456789"
+    }
+]
